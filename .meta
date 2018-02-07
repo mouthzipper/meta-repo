@@ -1,3 +1,5 @@
 {
- "projects": {}
+  "projects": {
+    "microService": "git@github.com:mouthzipper/microservices.git"
+  }
 }
